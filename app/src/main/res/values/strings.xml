@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectBP0191</string>
+    <string name="welcome_to_miki_app">Welcome to Miki App</string>
+    <string name="todo">TODO</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="button">Button</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account.Register here</string>
+</resources>
